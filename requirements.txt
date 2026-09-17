@@ -19,3 +19,6 @@ ipykernel>=6.29.0
 #Gemini Models
 google-genai
 langchain_google_genai 
+
+#For Semantic search Computation
+numpy
